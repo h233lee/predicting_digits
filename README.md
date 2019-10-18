@@ -1,1 +1,1 @@
-# predicting_digits
+# This project will take hand written digits, which has been already processed to table format. It will train a neural network model utilizing 4 Kfolds and k-nearest neighbors to predict digits. It will also calculate an accuracy score.
